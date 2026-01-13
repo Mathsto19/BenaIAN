@@ -1,0 +1,28 @@
+1. Botões Não implementado
+
+Mem (Shift + Mem): Gerenciador de memória.
+Units (Shift + Units): Menu de conversão de unidades.
+List (Shift + 7): Editor/Operações de lista.
+Matrix (Shift + 8): Editor/Operações de matriz.
+Settings (Shift + Home ou Shift + CAS): Configurações da calculadora.
+Info (Shift + Apps): Informações do sistema.
+User (Shift + Help): Variáveis do usuário.
+
+2. Botões Silenciosos
+
+View: Geralmente usado para mudar a visualização (plot vs tabela) ou copy/paste visual.
+Menu: Menu contextual inferior (soft menus na tela touch).
+Help: Ajuda contextual.
+Def (Shift + x): Definir função rapidamente.
+Note (Shift + 0): Editor de notas de texto.
+Base (Shift + -): Conversão de base (Hex/Bin/Oct).
+Setup (Shift + Symb / Shift + Plot / Shift + Num): Configuração específica da App atual (ex: configurar eixos do plot).
+
+3. Botões Errado
+
+Vars: Deveria abrir o menu de variáveis (A-Z, Home, App).
+Logic (Shift + 9): Deveria abrir operadores lógicos (AND, OR, XOR).
+Prog (Shift + 1): Deveria abrir o catálogo de programas ou inserir um comando de programa.
+Eval (Shift + ,): Deveria forçar avaliação numérica ou simbólica explícita (hoje ele digita "Eval").
+
+arrumar tela inicial, colcoar o guar e o guard

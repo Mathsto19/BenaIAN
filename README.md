@@ -1,4 +1,4 @@
-# BenIAN – Emulador de Calculadora Gráfica para Desktop
+# BenaIAN – Emulador de Calculadora Gráfica para Desktop
 
 Aplicação desktop focada em UI/UX e visualização matemática, desenvolvida como um projeto prático para explorar interfaces interativas e simular funcionalidades de calculadoras gráficas científicas.
 

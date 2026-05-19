@@ -1,4 +1,4 @@
-# BenaIAN – Emulador de Calculadora Gráfica para Desktop
+# BenaCHP – Emulador de Calculadora Gráfica para Desktop
 
 Aplicação desktop focada em UI/UX e visualização matemática, desenvolvida como um projeto prático para explorar interfaces interativas e simular funcionalidades de calculadoras gráficas científicas.
 
@@ -9,7 +9,7 @@ Aplicação desktop focada em UI/UX e visualização matemática, desenvolvida c
 
 ## Sobre o Projeto
 
-O BenIAN é um simulador de calculadora gráfica inspirado em dispositivos como a HP Prime, projetado para oferecer uma experiência interativa de visualização matemática diretamente no computador. O projeto explora conceitos de UI/UX responsiva e renderização de funções matemáticas em tempo real.
+O BenaCHP é um simulador de calculadora gráfica inspirado em dispositivos como a HP Prime, projetado para oferecer uma experiência interativa de visualização matemática diretamente no computador. O projeto explora conceitos de UI/UX responsiva e renderização de funções matemáticas em tempo real.
 
 ---
 
@@ -69,11 +69,11 @@ O BenIAN é um simulador de calculadora gráfica inspirado em dispositivos como 
 ### Instalação
 ```bash
 # Clone o repositório
-git clone https://github.com/Mathsto19/BenIAN.git
-cd BenIAN
+git clone https://github.com/Mathsto19/BenaCHP.git
+cd BenaCHP
 
 # Execute o aplicativo
-python BenIAN.py
+python BenaCHP.py
 ````
 
 ### Controles básicos
@@ -98,7 +98,7 @@ python BenIAN.py
 
 ## Inspiração
 
-O BenIAN se inspira no conceito de calculadoras gráficas científicas, que oferecem recursos de plotagem de equações, operações avançadas e ferramentas de apoio à visualização matemática.
+O BenaCHP se inspira no conceito de calculadoras gráficas científicas, que oferecem recursos de plotagem de equações, operações avançadas e ferramentas de apoio à visualização matemática.
 
 ---
 
